@@ -4,5 +4,5 @@ WhiteSheep is for device development only. Software and infrastructure projects 
 
 **Current device projects:**
  - WhiteSheep-physarum
- - WhiteSheep-nav (formerly BlackSheep-GeoLoc)
+ - WhiteSheep-nav
  - WhiteSheep-tern
