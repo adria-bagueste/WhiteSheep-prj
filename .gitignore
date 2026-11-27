@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+Thumbs.db
+desktop.ini
+WhiteSheep-logo/
+report.json
