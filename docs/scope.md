@@ -1,6 +1,6 @@
 # WhiteSheep project scope
 
-WhiteSheep is for device development only. Software and infrastructure projects live in BlackSheep-prj.
+WhiteSheep is for device development only. Software and infrastructure projects live in Sheep-prj.
 
 **Current device projects:**
  - WhiteSheep-physarum
